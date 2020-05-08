@@ -12,6 +12,11 @@
     margin: 0px;
 }
 
+.myTag{
+    background-color: gray;
+    color: #fff;
+    padding: 10px;
+}
 .no-padding {
     padding: 0;
 }
