@@ -2017,6 +2017,10 @@
     content: "\eac0";
 }
 
+.icon-stackoverflow:before {
+    content: "\eb00";
+  }
+  
 .icon-facebook22:before {
     content: "\eac1";
 }
